@@ -1,0 +1,25 @@
+{
+  "name": "teste_express_cru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.5",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.10.6",
+    "mongoose-validators": "^0.1.0",
+    "mysql": "^2.13.0",
+    "mysql2": "^1.3.4",
+    "sequelize": "^4.1.0",
+    "validator": "^7.0.0"
+  }
+}
